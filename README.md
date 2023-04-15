@@ -178,5 +178,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/FeatherCodes/red-alpha/blob/main/api.svg"/>
+  <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/api.svg"/>
 </p>
